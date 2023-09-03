@@ -1,0 +1,1 @@
+# Structural-Analysis-of-Helicopter-Blade
